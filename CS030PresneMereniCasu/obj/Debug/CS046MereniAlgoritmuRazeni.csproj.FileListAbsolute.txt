@@ -1,0 +1,10 @@
+C:\Users\Vojtěch\Desktop\CS046MereniAlgoritmu\CS030PresneMereniCasu\bin\Debug\CS030PresneMereniCasu.exe.config
+C:\Users\Vojtěch\Desktop\CS046MereniAlgoritmu\CS030PresneMereniCasu\bin\Debug\CS030PresneMereniCasu.exe
+C:\Users\Vojtěch\Desktop\CS046MereniAlgoritmu\CS030PresneMereniCasu\bin\Debug\CS030PresneMereniCasu.pdb
+C:\Users\Vojtěch\Desktop\CS046MereniAlgoritmu\CS030PresneMereniCasu\obj\Debug\CS046MereniAlgoritmuRazeni.csprojAssemblyReference.cache
+C:\Users\Vojtěch\Desktop\CS046MereniAlgoritmu\CS030PresneMereniCasu\obj\Debug\CS031MereniAlgoritmuProhozeni.MereniAlgoritmuProhozeniForm.resources
+C:\Users\Vojtěch\Desktop\CS046MereniAlgoritmu\CS030PresneMereniCasu\obj\Debug\CS030PresneMereniCasu.Properties.Resources.resources
+C:\Users\Vojtěch\Desktop\CS046MereniAlgoritmu\CS030PresneMereniCasu\obj\Debug\CS046MereniAlgoritmuRazeni.csproj.GenerateResource.cache
+C:\Users\Vojtěch\Desktop\CS046MereniAlgoritmu\CS030PresneMereniCasu\obj\Debug\CS046MereniAlgoritmuRazeni.csproj.CoreCompileInputs.cache
+C:\Users\Vojtěch\Desktop\CS046MereniAlgoritmu\CS030PresneMereniCasu\obj\Debug\CS030PresneMereniCasu.exe
+C:\Users\Vojtěch\Desktop\CS046MereniAlgoritmu\CS030PresneMereniCasu\obj\Debug\CS030PresneMereniCasu.pdb
